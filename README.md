@@ -7,8 +7,17 @@
   <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
 </p>
 
-### 🏅 A Material You inspired markdown badge collection.
+<img align="left" height="75px" src="https://pictshare.net/9nezj5.png">
+🏅 A Material You inspired markdown badge collection.
+<br>
+✒️ Handmade in Figma.
+<br>
+🎆 Multiple color options.
+
+<br>
+<br>
 
 <details>
   <summary>Badge list</summary>
+  Coming soon™
 </details>
