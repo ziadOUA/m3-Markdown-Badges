@@ -16,8 +16,36 @@
 
 <br>
 <br>
+<br>
 
-<details>
-  <summary>Badge list</summary>
-  Coming soon™
+- [How to use](#how-to-use)
+- <details><summary>Badge list</summary>
+
+  - Static badges
+    - [Design](#design)
+    - [IDE](#ide)
+    - [Languages](#languages)
+    - [OS](#os)
+    - [Social](#social)
+    - [Terminal Apps](#terminal-apps)
+    - [Web Browsers](#web-browsers)
+
 </details>
+
+## How to use
+
+- Get a link from the badge list below.
+- Create an image tag in your README :
+  - `<img height="30px" src="PUT THE LINK HERE">`
+  - You can customize the height, but I recommend `30 px`
+  - You can center your badge by putting it into a `<p>` tag, with the attribute `align="center"` :
+    - `<p align="center">BADGE.S HERE</p>`
+- Enjoy !
+
+# Design
+# IDE
+# Languages
+# OS
+# Social
+# Terminal Apps
+# Web Browsers
