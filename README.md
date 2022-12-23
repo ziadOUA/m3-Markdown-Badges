@@ -37,7 +37,7 @@
 - Get a link from the badge list below.
 - Create an image tag in your README :
   - `<img height="30px" src="PUT THE LINK HERE">`
-  - You can customize the height, but I recommend `30 px`
+  - You can customize the height, but I recommend `30px`
   - You can center your badge by putting it into a `<p>` tag, with the attribute `align="center"` :
     - `<p align="center">BADGE.S HERE</p>`
 - Enjoy !
