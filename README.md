@@ -10,7 +10,7 @@
 <img align="left" height="75px" src="https://pictshare.net/9nezj5.png">
 🏅 A Material You inspired markdown badge collection.
 <br>
-✒️ Handmade in Figma.
+✒ Handmade in Figma.
 <br>
 🎆 Multiple color options.
 
@@ -37,7 +37,7 @@
 - Get a link from the badge list below.
 - Create an image tag in your README :
   - `<img src="PUT THE LINK HERE">`
-  - You can customize the height, but I recommend keeping the default one`(30px)`
+  - You can customize the height, but I recommend keeping the default one `(30px)`
     - To customize the height, simply put the height attribute within the image tag :
       - `<img height="YOUR DESIRED HEIGHT IN PIXELS" src="PUT THE LINK HERE">`
     - You don't need the height attribute if you don't want to change the height.
