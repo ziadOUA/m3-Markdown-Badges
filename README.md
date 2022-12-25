@@ -50,6 +50,16 @@
 
 # Contact
 
+| Badge                                                                                | URL                                                                        |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Outlook/outlook3.svg` |
+
+
 # Design
 
 | Badge                                                                            | URL                                                                    |
@@ -130,6 +140,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg`   |
 
 # Terminal Apps
 
