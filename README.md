@@ -20,17 +20,17 @@
 
 - [How to use](#how-to-use)
 - <details><summary>Badge list</summary>
-
-  - Static badges
-    - [Design](#design)
-    - [IDE](#ide)
-    - [Languages](#languages)
-    - [Library](#library)
-    - [Music](#music)
-    - [OS](#os)
-    - [Social](#social)
-    - [Terminal Apps](#terminal-apps)
-    - [Web Browsers](#web-browsers)
+  
+  - [Contact](#contact)
+  - [Design](#design)
+  - [IDE](#ide)
+  - [Languages](#languages)
+  - [Library](#library)
+  - [Music](#music)
+  - [OS](#os)
+  - [Social](#social)
+  - [Terminal Apps](#terminal-apps)
+  - [Web Browsers](#web-browsers)
 
 </details>
 
@@ -46,6 +46,9 @@
   - You can center your badge by putting it into a `<p>` tag, with the attribute `align="center"` :
     - `<p align="center">BADGE.S HERE</p>`
 - Enjoy !
+
+
+# Contact
 
 # Design
 
@@ -154,5 +157,3 @@
     <img align="center" height="75px" src="https://pictshare.net/4jwzdi.png">
   </a>
 </p>
-
-<br>
