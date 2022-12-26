@@ -32,6 +32,8 @@
   - [Terminal Apps](#terminal-apps)
   - [Web Browsers](#web-browsers)
 
+- [Licence Badges](#licence-badges)
+
 </details>
 
 # How to use
@@ -62,11 +64,17 @@
 
 # Design
 
-| Badge                                                                            | URL                                                                    |
-|----------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg` |
+| Badge                                                                                | URL                                                                        |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Behance/behance3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble2.svg` |             
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble3.svg` |
 
 # IDE
 
@@ -162,6 +170,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg`   |
+
+# Licence Badges
+
+| Badge                                                                                      | URL                                                                              |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg` |
 
 <br>
 
