@@ -186,3 +186,6 @@
     <img align="center" height="75px" src="https://pictshare.net/4jwzdi.png">
   </a>
 </p>
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg">
+</p>
