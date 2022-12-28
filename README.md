@@ -115,18 +115,62 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg`                   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg`                   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg`                   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#1.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#2.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C#/c#3.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg">               | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg`               |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Perl/perl3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r1.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r1.svg`                   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg`                   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r3.svg">                   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r3.svg`                   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift1.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift2.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Swift/swift3.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg` |
 
 # Library
 
-| Badge                                                                            | URL                                                                    |
-|----------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg` |
-
+| Badge                                                                                        | URL                                                                                |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg">                 | `https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg`                 |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg` |
 
 # Music
 
