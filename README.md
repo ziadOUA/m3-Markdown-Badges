@@ -2,7 +2,7 @@
 <img src="https://pictshare.net/4hjgj1.png">
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
 </p>
