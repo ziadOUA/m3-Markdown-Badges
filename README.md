@@ -31,6 +31,7 @@
   - [Library](#library-&-framework)
   - [Music](#music)
   - [OS](#os)
+  - [Prototyping Platform](#prototyping-platform)
   - [Social](#social)
   - [Terminal Apps](#terminal-apps)
   - [Web Browsers](#web-browsers)
@@ -288,6 +289,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg`     |
+
+# Prototyping Platform
+
+| Badge                                                                                        | URL                                                                                |
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg` |
 
 # Social
 
