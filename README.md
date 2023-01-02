@@ -264,6 +264,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg`       |
 
 # Music
 
@@ -289,6 +292,12 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios3.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg`     |
 
 # Prototyping Platform
 
