@@ -26,6 +26,7 @@
   - [Database](#database)
   - [Design](#design)
   - [Funding](#funding)
+  - [Games](#games)
   - [IDE](#ide)
   - [Languages](#languages)
   - [Library](#library-&-framework)
@@ -130,6 +131,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal2.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal3.svg`             |
 
+# Games
+
+| Badge                                                                          | URL                                                                  |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg` |
+
 # IDE
 
 | Badge                                                                                                  | URL                                                                                          |
@@ -146,6 +155,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg`         |
 
 # Languages
 
@@ -267,6 +279,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron1.svg`       |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron2.svg`       |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte2.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte3.svg`           |
 
 # Music
 
