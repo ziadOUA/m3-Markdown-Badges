@@ -282,6 +282,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg`           |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte2.svg`           |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte3.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg`           |
 
 # Music
 
