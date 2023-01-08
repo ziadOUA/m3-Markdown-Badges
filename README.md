@@ -133,11 +133,14 @@
 
 # Games
 
-| Badge                                                                          | URL                                                                  |
-|--------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg` |
+| Badge                                                                                              | URL                                                                                      |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg">                     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg`                     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg">                     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg`                     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg">                     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg`                     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch3.svg` |
 
 # IDE
 
@@ -285,6 +288,12 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg`           |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg`           |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg">           | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg`           |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg`     |
 
 # Music
 
