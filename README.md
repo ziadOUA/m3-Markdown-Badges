@@ -294,6 +294,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg` |
 
 # Music
 
@@ -305,6 +308,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg`   |
 
 # OS
 
@@ -336,17 +342,20 @@
 
 # Social
 
-| Badge                                                                                | URL                                                                        |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg` |
+| Badge                                                                                  | URL                                                                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto1.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto2.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Devto/devto3.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg` |
 
 # Terminal Apps
 
