@@ -29,12 +29,13 @@
   - [Games](#games)
   - [IDE](#ide)
   - [Languages](#languages)
-  - [Library](#library-&-framework)
+  - [Library & Framework](#library-&-framework)
   - [Music](#music)
   - [OS](#os)
   - [Prototyping Platform](#prototyping-platform)
   - [Social](#social)
   - [Terminal Apps](#terminal-apps)
+  - [Streaming & Video](#streaming-&-video)
   - [Web Browsers](#web-browsers)
 
 - [Licence Badges](#licence-badges)
@@ -297,6 +298,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg` |
 
 # Music
 
@@ -364,6 +368,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg` |
+
+# Streaming & Video
+
+| Badge                                                                              | URL                                                                      |
+|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch3.svg` |
 
 # Web Browsers
 
