@@ -92,11 +92,14 @@
 
 # Database
 
-| Badge                                                                              | URL                                                                      |
-|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg` |
+| Badge                                                                                | URL                                                                        |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg` |
 
 # Design
 
@@ -162,6 +165,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg`         |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg`         |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode1.svg">                       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode1.svg`                       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg">                       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode2.svg`                       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode3.svg">                       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xcode/xcode3.svg`                       |
 
 # Languages
 
