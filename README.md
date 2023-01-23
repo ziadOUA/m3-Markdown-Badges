@@ -1,6 +1,10 @@
 # m3 Markdown Badges
 <img src="https://pictshare.net/4hjgj1.png">
 
+<p>
+  <img src="res/headerCustomBadge.svg">
+</p>
+
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
@@ -29,13 +33,13 @@
   - [Games](#games)
   - [IDE](#ide)
   - [Languages](#languages)
-  - [Library & Framework](#library-&-framework)
+  - [Library & Framework](#library-and-framework)
   - [Music](#music)
   - [OS](#os)
   - [Prototyping Platform](#prototyping-platform)
   - [Social](#social)
   - [Terminal Apps](#terminal-apps)
-  - [Streaming & Video](#streaming-&-video)
+  - [Streaming & Video](#streaming-and-video)
   - [Web Browsers](#web-browsers)
 
 - [Licence Badges](#licence-badges)
@@ -234,7 +238,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg`             |
 
-# Library & Framework
+# Library and Framework
 
 | Badge                                                                                        | URL                                                                                |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -375,7 +379,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg` |
 
-# Streaming & Video
+# Streaming and Video
 
 | Badge                                                                              | URL                                                                      |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
