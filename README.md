@@ -1,7 +1,7 @@
 # m3 Markdown Badges
 <img src="https://pictshare.net/4hjgj1.png">
 
-<p>
+<p align="left">
   <img src="res/headerCustomBadge.svg">
 </p>
 
