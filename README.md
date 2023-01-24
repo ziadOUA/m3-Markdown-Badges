@@ -97,14 +97,17 @@
 
 # Database
 
-| Badge                                                                                | URL                                                                        |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg` |
+| Badge                                                                                  | URL                                                                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg` |
 
 # Design
 
@@ -238,6 +241,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json2.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg`             |
 
 # Library and Framework
 
