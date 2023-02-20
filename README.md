@@ -108,6 +108,27 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg` |
 
 # Design
 
