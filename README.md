@@ -379,6 +379,12 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg` |
 
 # Prototyping Platform
 
