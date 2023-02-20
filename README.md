@@ -23,26 +23,26 @@
 <br>
 <br>
 
+- [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
-- <details><summary>Badge list</summary>
-  
-  - [Cloud](#cloud)
-  - [Contact](#contact)
-  - [Database](#database)
-  - [Design](#design)
-  - [Funding](#funding)
-  - [Games](#games)
-  - [IDE](#ide)
-  - [Languages](#languages)
-  - [Library & Framework](#library-and-framework)
-  - [Music](#music)
-  - [OS](#os)
-  - [Prototyping Platform](#prototyping-platform)
-  - [Social](#social)
-  - [Terminal Apps](#terminal-apps)
-  - [Streaming & Video](#streaming-and-video)
-  - [Web Browsers](#web-browsers)
-
+    - [Method 1 :](#method-1-)
+    - [Method 2 (by using Badger) :](#method-2-by-using-badger-)
+- [Cloud](#cloud)
+- [Contact](#contact)
+- [Database](#database)
+- [Design](#design)
+- [Funding](#funding)
+- [Games](#games)
+- [IDE](#ide)
+- [Languages](#languages)
+- [Library and Framework](#library-and-framework)
+- [Music](#music)
+- [OS](#os)
+- [Prototyping Platform](#prototyping-platform)
+- [Social](#social)
+- [Terminal Apps](#terminal-apps)
+- [Streaming and Video](#streaming-and-video)
+- [Web Browsers](#web-browsers)
 - [Licence Badges](#licence-badges)
 
 </details>
@@ -102,9 +102,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg`     |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb1.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb2.svg`   |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MangoDB/mangodb3.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RabbitMQ/rabbitmq3.svg` |
