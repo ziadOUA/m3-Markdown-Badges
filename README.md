@@ -265,6 +265,12 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg`             |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg">             | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg`             |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg` |
 
 # Library and Framework
 
