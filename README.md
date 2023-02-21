@@ -357,6 +357,21 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg` |
 
 # Music
 
