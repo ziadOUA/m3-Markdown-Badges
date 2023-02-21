@@ -149,6 +149,18 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg`         |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere2.svg`         |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg">         | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere3.svg`         |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg` |
 
 # Funding
 
