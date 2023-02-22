@@ -372,6 +372,15 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg` |
 
 # Music
 
