@@ -1,3 +1,11 @@
+# *23/02/2023* #1
+
+Added :
+- **Apollo GraphQL**
+- **Sequelize**
+- **Trello**
+- **TypeORM**
+
 # *22/02/2023* #1
 
 Added :
