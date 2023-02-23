@@ -37,6 +37,8 @@
 - [Languages](#languages)
 - [Library and Framework](#library-and-framework)
 - [Music](#music)
+- [Office](#office)
+- [ORM](#orm)
 - [OS](#os)
 - [Prototyping Platform](#prototyping-platform)
 - [Social](#social)
@@ -381,6 +383,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ApolloGraphQL/apollographql3.svg` |
 
 # Music
 
@@ -395,6 +400,25 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg`   |
+
+# Office
+
+| Badge                                                                                  | URL                                                                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg` |
+
+# ORM
+
+| Badge                                                                                  | URL                                                                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm3.svg` |
 
 # OS
 
