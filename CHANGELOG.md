@@ -1,6 +1,16 @@
 # *23/02/2023* #1
 
 Added :
+- **Astro**
+- **Expo**
+- **Gatsby**
+- **NestJS**
+- **NextJS**
+- **SolidJS**
+
+# *23/02/2023* #1
+
+Added :
 - **Apollo GraphQL**
 - **Sequelize**
 - **Trello**
