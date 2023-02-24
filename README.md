@@ -25,8 +25,8 @@
 
 - [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
-    - [Method 1](#method-1-)
-    - [Method 2](#method-2-by-using-badger-)
+    - [Method 1](#method-1)
+    - [Method 2](#method-2-by-using-badger)
 - <details>
     <summary>Badges</summary>
     
