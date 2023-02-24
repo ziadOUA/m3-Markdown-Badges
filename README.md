@@ -25,30 +25,32 @@
 
 - [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
-    - [Method 1 :](#method-1-)
-    - [Method 2 (by using Badger) :](#method-2-by-using-badger-)
-- [Cloud](#cloud)
-- [Contact](#contact)
-- [Database](#database)
-- [Design](#design)
-- [Funding](#funding)
-- [Games](#games)
-- [IDE](#ide)
-- [Languages](#languages)
-- [Library and Framework](#library-and-framework)
-- [Linter](#linter)
-- [Music](#music)
-- [Office](#office)
-- [ORM](#orm)
-- [OS](#os)
-- [Prototyping Platform](#prototyping-platform)
-- [Social](#social)
-- [Terminal Apps](#terminal-apps)
-- [Streaming and Video](#streaming-and-video)
-- [Web Browsers](#web-browsers)
-- [Licence Badges](#licence-badges)
-
-</details>
+    - [Method 1](#method-1-)
+    - [Method 2](#method-2-by-using-badger-)
+- <details>
+    <summary>Badges</summary>
+    
+    - [Cloud](#cloud)
+    - [Contact](#contact)
+    - [Database](#database)
+    - [Design](#design)
+    - [Funding](#funding)
+    - [Games](#games)
+    - [IDE](#ide)
+    - [Languages](#languages)
+    - [Library and Framework](#library-and-framework)
+    - [Linter](#linter)
+    - [Music](#music)
+    - [Office](#office)
+    - [ORM](#orm)
+    - [OS](#os)
+    - [Prototyping Platform](#prototyping-platform)
+    - [Social](#social)
+    - [Terminal Apps](#terminal-apps)
+    - [Streaming and Video](#streaming-and-video)
+    - [Web Browsers](#web-browsers)
+    - [Licence Badges](#licence-badges)
+  </details>
 
 # How to use
 
