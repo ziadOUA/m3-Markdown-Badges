@@ -36,6 +36,7 @@
 - [IDE](#ide)
 - [Languages](#languages)
 - [Library and Framework](#library-and-framework)
+- [Linter](#linter)
 - [Music](#music)
 - [Office](#office)
 - [ORM](#orm)
@@ -404,6 +405,26 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SolidJS/solidjs3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg` |
+
+# Linter
+
+| Badge                                                                                  | URL                                                                          |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg` |
 
 # Music
 
@@ -426,6 +447,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg` |
 
 # ORM
 
