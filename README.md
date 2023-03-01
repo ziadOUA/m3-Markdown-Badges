@@ -81,6 +81,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg`       |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify2.svg`       |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg`       |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg` |
 
 # Contact
 
@@ -421,6 +424,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg` |
 
 # Linter
 
