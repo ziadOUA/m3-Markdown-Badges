@@ -29,7 +29,6 @@
     - [Method 2](#method-2-by-using-badger)
 - <details>
     <summary>Badges</summary>
-    
     - [Cloud](#cloud)
     - [Contact](#contact)
     - [Database](#database)
