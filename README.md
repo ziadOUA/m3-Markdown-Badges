@@ -4,7 +4,7 @@
   <img src="res/headerCustomBadge.svg">
 </p>
 
-<img src="https://pictshare.net/4hjgj1.png">
+<img src="https://i.postimg.cc/x1kt468Z/MARKDOWNBADGES.png">
 
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
