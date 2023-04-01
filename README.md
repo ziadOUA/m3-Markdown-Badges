@@ -449,6 +449,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton2.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton3.svg`   |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud3.svg` |
 
 # Office
 
@@ -525,6 +528,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor3.svg` |
 
 # Terminal Apps
 
