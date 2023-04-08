@@ -290,6 +290,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/GraphQL/graphql3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg` |
 
 # Library and Framework
 
