@@ -68,6 +68,14 @@
 - Copy and paste
 - Enjoy :)
 
+# Blogging
+
+| Badge | URL |
+| -------------------------------- | -------------------------------- |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode3.svg` |
+
 # Cloud
 
 | Badge                                                                                      | URL                                                                              |
@@ -81,6 +89,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg` |
 
 # Contact
 
