@@ -1,3 +1,9 @@
+# *22/04/2023* #1
+
+Added :
+- **GPLv3** (Licence)
+  - Fixes [#6](https://github.com/ziadOUA/m3-Markdown-Badges/issues/6)
+
 # *16/04/2023* #1
 
 Added :
