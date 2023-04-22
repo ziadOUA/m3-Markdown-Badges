@@ -598,6 +598,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa1.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa1.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa2.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa2.svg`     |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa3.svg">     | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYSA/licenceccbysa3.svg`     |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg` |
 
 <br>
 
