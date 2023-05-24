@@ -176,6 +176,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg` |
 
 # Funding
 
@@ -230,6 +233,12 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim3.svg` |
 
 # Languages
 
@@ -520,6 +529,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora3.svg` |
 
 # Prototyping Platform
 
