@@ -1,3 +1,11 @@
+# *24/05/2023* #1
+
+Added :
+- **Blender**
+- **Fedora**
+- **Neovim**
+- **Vim**
+
 # *22/04/2023* #1
 
 Added :
