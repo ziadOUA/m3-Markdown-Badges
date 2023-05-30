@@ -1,3 +1,8 @@
+# *30/05/2023* #1
+
+Added :
+- **Android Studio**
+
 # *24/05/2023* #1
 
 Added :
@@ -5,6 +10,7 @@ Added :
 - **Fedora**
 - **Neovim**
 - **Vim**
+  - Fixes [#7](https://github.com/ziadOUA/m3-Markdown-Badges/issues/7)
 
 # *22/04/2023* #1
 
