@@ -239,6 +239,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg` |
 
 # Languages
 
