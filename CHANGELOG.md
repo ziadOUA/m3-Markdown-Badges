@@ -1,3 +1,9 @@
+# *03/06/2023* #1
+
+Updated :
+- **Netlify**
+- **Obsidian**
+
 # *30/05/2023* #1
 
 Added :
