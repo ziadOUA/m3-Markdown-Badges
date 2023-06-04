@@ -180,6 +180,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg` |
 
+# Education
+
+| Badge | URL |
+| ---------------- | ---------------- |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo3.svg` |
+
 # Funding
 
 | Badge                                                                                          | URL                                                                                  |
