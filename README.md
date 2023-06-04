@@ -25,12 +25,14 @@
 
 - [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
-    - [Method 1 :](#method-1-)
-    - [Method 2 (by using Badger) :](#method-2-by-using-badger-)
+  - [Method 1](#method-1)
+  - [Method 2](#method-2)
+- [Blogging](#blogging)
 - [Cloud](#cloud)
 - [Contact](#contact)
 - [Database](#database)
 - [Design](#design)
+- [Education](#education)
 - [Funding](#funding)
 - [Games](#games)
 - [IDE](#ide)
@@ -50,7 +52,8 @@
 
 # How to use
 
-### Method 1 :
+## Method 1
+
 - Get a link from the badge list below.
 - Create an image tag in your README :
   - `<img src="PUT THE LINK HERE">`
@@ -62,7 +65,10 @@
     - `<p align="center">BADGE.S HERE</p>`
 - Enjoy !
 
-### Method 2 (by using [Badger](https://github.com/ziadOUA/Badger)) :
+## Method 2
+
+*Using [Badger](https://github.com/ziadOUA/Badger)*
+
 - Download the latest release of Badger [here](https://github.com/ziadOUA/Badger/releases/latest):
 - Put the names of the badges you need
 - Copy and paste
