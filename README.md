@@ -583,13 +583,16 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg` |
 
-# Streaming and Video
+# Streaming and Video editing
 
 | Badge                                                                              | URL                                                                      |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitch/twitch3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg` |
 
 # Web Browsers
 
