@@ -1,3 +1,9 @@
+# *08/06/2023* #2
+
+Added :
+- **DaVinci Resolve**
+  - Fixes [#9](https://github.com/ziadOUA/m3-Markdown-Badges/issues/9)
+
 # *08/06/2023* #1
 
 Fixed :
