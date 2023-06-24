@@ -48,5 +48,3 @@ def github_stars_badge(style, variant, username, repo):
         return Response(svg, mimetype='image/svg+xml')
     else:
         return 'Error', r.status_code
-
-app.run()
