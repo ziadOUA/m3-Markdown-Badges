@@ -1,14 +1,14 @@
 {
     "builds": [
         {
-            "src": "./main.py",
+            "src": ".dynamicBadges/main.py",
             "use": "@vercel/python"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "main.py"
+            "dest": ".dynamicBadges/main.py"
         }
     ]
 }
