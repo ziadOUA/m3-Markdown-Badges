@@ -1,7 +1,7 @@
 import requests
 from flask import Flask, Response
 
-app = Flask(__name__, template_folder='templateFiles', static_folder='staticFiles')
+app = Flask(__name__, template_folder='dynamicBadges/templateFiles', static_folder='dynamicBadges/staticFiles')
 
 # VARIANT 1 ----------------------------------------------------------------
 variant_1 = ['#B02E26', '#974800', '#8E7500', '3F6900', '#4B6700', '#00696A', '#4B53B9', '#006493', '#8A33B8', '#9E2A99', '#99405E', '#1B1B1B']
@@ -51,3 +51,5 @@ def github_stars_badge(style, variant, username, repo):
         return Response(svg, mimetype='image/svg+xml')
     else:
         return 'Error', r.status_code
+
+app.run()

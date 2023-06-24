@@ -1,8 +1,14 @@
 {
     "builds": [
-    { "src": "*.py", "use": "@now/python" }
+        {
+            "src": "./main.py",
+            "use": "@vercel/python"
+        }
     ],
     "routes": [
-    { "src": "/badge/stars/([^/]+)/([^/]+)/([^/]+)/([^/]+)", "dest": "dynamicBadges/main.py" }
+        {
+            "src": "/(.*)",
+            "dest": "main.py"
+        }
     ]
 }
