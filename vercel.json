@@ -1,14 +1,18 @@
 {
+    "version": 2,
     "builds": [
-        {
-            "src": ".dynamicBadges/main.py",
-            "use": "@vercel/python"
+    {
+        "src": "dynamicBadges",
+        "use": "@vercel/python",
+        "config": {
+        "maxLambdaSize": "15mb"
         }
+    }
     ],
     "routes": [
-        {
-            "src": "/(.*)",
-            "dest": ".dynamicBadges/main.py"
-        }
+    {
+        "src": "/badge/stars/(.*)/(.*)/(.*)/(.*)",
+        "dest": "dynamicBadges/main.py"
+    }
     ]
 }
