@@ -1,7 +1,7 @@
 import requests
 from flask import Flask, Response
 
-app = Flask(__name__, template_folder='dynamicBadges/templateFiles', static_folder='dynamicBadges/staticFiles')
+app = Flask(__name__)
 
 # VARIANT 1 ----------------------------------------------------------------
 variant_1 = ['#B02E26', '#974800', '#8E7500', '3F6900', '#4B6700', '#00696A', '#4B53B9', '#006493', '#8A33B8', '#9E2A99', '#99405E', '#1B1B1B']
@@ -37,17 +37,17 @@ def github_stars_badge(style, variant, username, repo):
         stars = data['stargazers_count']
 
         if len(str(stars)) == 1:
-            width = 20 + 68
+            width = 35 + 68
         elif len(str(stars)) == 2:
-            width = 2 * 16 + 68
+            width = 2 * 22 + 68
         elif len(str(stars)) == 3:
-            width = 3 * 14 + 68
+            width = 3 * 19 + 68
         elif len(str(stars)) == 4:
-            width = 4 * 13 + 68
+            width = 4 * 17 + 68
         else:
-            width = len(str(stars)) * 13 + 68
+            width = len(str(stars)) * 15 + 68
         
-        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Product Sans">Stars : {stars}</text></svg>'
+        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><style>@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500");</style><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Lexend Deca">Stars : {stars}</text></svg>'
         return Response(svg, mimetype='image/svg+xml')
     else:
         return 'Error', r.status_code
