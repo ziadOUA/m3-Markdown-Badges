@@ -15,7 +15,7 @@ on_variant_2 = ['#690004', '#512400', '#3B2F00', '#1F3700', '#253600', '#003737'
 variant_3 = ['#FFDAD5', '#FFDBC7', '#FFE177', '#ACF850', '#CAF07D', '#6FF6F7', '#E0E0FF', '#CAE6FF', '#F6D9FF', '#FFD7F4', '#FFD9E1', '#E2E2E2']
 on_variant_3 = ['#410001', '#311300', '#231B00', '#102000', '#141F00', '#002020', '#00036B', '#001E30', '#310049', '#380037', '#3F001B', '#1B1B1B']
 
-@app.route('/badge/stars/<style>/<variant>/<username>/<repo>')
+@app.route('/stars/<style>/<variant>/<username>/<repo>')
 def github_stars_badge(style, variant, username, repo):
     url = f'https://api.github.com/repos/{username}/{repo}'
     headers = {'Accept': 'application/vnd.github.v3+json'}
