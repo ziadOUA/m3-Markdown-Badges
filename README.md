@@ -1,9 +1,5 @@
 # m3 Markdown Badges
 
-<p align="center">
-  <img src="res/headerCustomBadge.svg">
-</p>
-
 <img src="https://i.postimg.cc/x1kt468Z/MARKDOWNBADGES.png">
 
 <p align="center">
