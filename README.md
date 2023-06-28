@@ -1,15 +1,14 @@
 # m3 Markdown Badges
 
-<p align="center">
-  <img src="res/headerCustomBadge.svg">
-</p>
-
 <img src="https://i.postimg.cc/x1kt468Z/MARKDOWNBADGES.png">
 
 <p align="center">
+  <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
 </p>
 
 <img align="left" height="75px" src="https://pictshare.net/9nezj5.png">
