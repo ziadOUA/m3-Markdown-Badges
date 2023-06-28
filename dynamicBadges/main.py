@@ -40,20 +40,20 @@ def github_stars_badge(style, variant, username, repo):
         stars = data['stargazers_count']
 
         if len(str(stars)) == 1:
-            width = 35 + 68
+            width = 37 + 68
         elif len(str(stars)) == 2:
-            width = 2 * 22 + 68
+            width = 2 * 24 + 68
         elif len(str(stars)) == 3:
-            width = 3 * 19 + 68
+            width = 3 * 21 + 68
         elif len(str(stars)) == 4:
-            width = 4 * 17 + 68
+            width = 4 * 19 + 68
         else:
             width = len(str(stars)) * 15 + 68
         
-        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><style>@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500");</style><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Lexend Deca">Stars : {stars}</text></svg>'
+        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><style>@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@600");</style><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Lexend Deca">Stars : {stars}</text></svg>'
         return Response(svg, mimetype='image/svg+xml')
     else:
-        return 'Error', r.status_code
+        return 'Error during request', r.status_code
 
 # Comment this line out to test the code above
 # app.run()
