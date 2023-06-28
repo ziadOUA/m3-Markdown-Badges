@@ -27,28 +27,41 @@
 - [How to use](#how-to-use)
   - [Method 1](#method-1)
   - [Method 2](#method-2)
-- [Blogging](#blogging)
-- [Cloud](#cloud)
-- [Contact](#contact)
-- [Database](#database)
-- [Design](#design)
-- [Education](#education)
-- [Funding](#funding)
-- [Games](#games)
-- [IDE](#ide)
-- [Languages](#languages)
-- [Library and Framework](#library-and-framework)
-- [Linter](#linter)
-- [Music](#music)
-- [Office](#office)
-- [ORM](#orm)
-- [OS](#os)
-- [Prototyping Platform](#prototyping-platform)
-- [Social](#social)
-- [Terminal Apps](#terminal-apps)
-- [Streaming and Video](#streaming-and-video)
-- [Web Browsers](#web-browsers)
-- [Licence Badges](#licence-badges)
+
+<details>
+  <summary>Static badges</summary>
+
+  - [Blogging](#blogging)
+  - [Cloud](#cloud)
+  - [Contact](#contact)
+  - [Database](#database)
+  - [Design](#design)
+  - [Education](#education)
+  - [Funding](#funding)
+  - [Games](#games)
+  - [IDE](#ide)
+  - [Languages](#languages)
+  - [Library and Framework](#library-and-framework)
+  - [Linter](#linter)
+  - [Music](#music)
+  - [Office](#office)
+  - [ORM](#orm)
+  - [OS](#os)
+  - [Prototyping Platform](#prototyping-platform)
+  - [Social](#social)
+  - [Terminal Apps](#terminal-apps)
+  - [Streaming and Video](#streaming-and-video)
+  - [Web Browsers](#web-browsers)
+  - [Licence Badges](#license-badges)
+
+</details>
+
+<details>
+  <summary>Dynamic badges</summary>
+
+  - [Stars](#stars)
+
+</details>
 
 # How to use
 
@@ -74,7 +87,11 @@
 - Copy and paste
 - Enjoy :)
 
-# Blogging
+------
+
+# Static badges
+
+## Blogging
 
 | Badge | URL |
 | -------------------------------- | -------------------------------- |
@@ -82,7 +99,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hashnode/hashnode3.svg` |
 
-# Cloud
+## Cloud
 
 | Badge                                                                                      | URL                                                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -99,7 +116,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg` |
 
-# Contact
+## Contact
 
 | Badge                                                                                | URL                                                                        |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -116,7 +133,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg`       |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg">       | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg`       |
 
-# Database
+## Database
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -151,7 +168,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase3.svg` |
 
-# Design
+## Design
 
 | Badge                                                                                          | URL                                                                                  |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -186,7 +203,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender3.svg` |
 
-# Education
+## Education
 
 | Badge | URL |
 | ---------------- | ---------------- |
@@ -194,7 +211,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo3.svg` |
 
-# Funding
+## Funding
 
 | Badge                                                                                          | URL                                                                                  |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -211,7 +228,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor3.svg` |
 
-# Games
+## Games
 
 | Badge                                                                                              | URL                                                                                      |
 |----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -222,7 +239,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/NintendoSwitch/nintendoswitch3.svg` |
 
-# IDE
+## IDE
 
 | Badge                                                                                                  | URL                                                                                          |
 |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -257,7 +274,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg` |
 
-# Languages
+## Languages
 
 | Badge                                                                                      | URL                                                                              |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -334,7 +351,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg` |
 
-# Library and Framework
+## Library and Framework
 
 | Badge                                                                                        | URL                                                                                |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -468,7 +485,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg` |
 
-# Linter
+## Linter
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -479,7 +496,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg` |
 
-# Music
+## Music
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -496,7 +513,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Soundcloud/soundcloud3.svg` |
 
-# Office
+## Office
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -510,7 +527,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg` |
 
-# ORM
+## ORM
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -521,7 +538,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm3.svg` |
 
-# OS
+## OS
 
 | Badge                                                                                | URL                                                                        |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -550,7 +567,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora3.svg` |
 
-# Prototyping Platform
+## Prototyping Platform
 
 | Badge                                                                                        | URL                                                                                |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
@@ -558,7 +575,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg` |
 
-# Social
+## Social
 
 | Badge                                                                                  | URL                                                                          |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -575,7 +592,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg` |
 
-# Terminal Apps
+## Terminal Apps
 
 | Badge                                                                        | URL                                                                |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -583,7 +600,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg` |
 
-# Streaming and Video editing
+## Streaming and Video editing
 
 | Badge                                                                              | URL                                                                      |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
@@ -594,7 +611,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg` |
 
-# Web Browsers
+## Web Browsers
 
 | Badge                                                                                | URL                                                                        |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -605,7 +622,7 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg`   |
 
-# Licence Badges
+## License Badges
 
 | Badge                                                                                                | URL                                                                                        |
 |------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -633,6 +650,51 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv31.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg` |
+
+------
+
+# Dynamic badges
+
+## Stars
+
+| Badge | URL |
+| ------| --- |
+| <img src="https://m3-markdown-badges.vercel.app/stars/1/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/1/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/1/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/1/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/1/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/1/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/2/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/2/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/2/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/2/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/2/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/2/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/3/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/3/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/3/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/3/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/3/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/3/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/4/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/4/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/4/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/4/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/4/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/4/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/5/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/5/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/5/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/5/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/5/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/5/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/6/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/6/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/6/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/6/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/6/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/6/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/7/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/7/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/7/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/7/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/7/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/7/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/8/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/8/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/8/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/8/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/8/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/9/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/9/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/9/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/9/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/9/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/10/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/10/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/10/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/10/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/10/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/10/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/11/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/11/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/11/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/11/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/11/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/11/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/12/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/12/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/stars/12/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/3/<your-username>/<repo-name>">` |
 
 <br>
 
