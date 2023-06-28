@@ -21,7 +21,10 @@ def github_stars_badge(style, variant, username, repo):
     headers = {'Accept': 'application/vnd.github.v3+json'}
     r = requests.get(url, headers=headers)
     if r.ok:
-        index = int(style) - 1
+        if int(style) > 12 or int(style) < 0:
+            index = 0
+        else:
+            index = int(style) - 1
 
         if variant == '1':
             background = variant_1[index]
@@ -51,3 +54,6 @@ def github_stars_badge(style, variant, username, repo):
         return Response(svg, mimetype='image/svg+xml')
     else:
         return 'Error', r.status_code
+
+# Comment this line out to test the code above
+# app.run()
