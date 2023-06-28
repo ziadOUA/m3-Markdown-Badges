@@ -1,3 +1,4 @@
+import time
 import requests
 from flask import Flask, Response
 
@@ -18,9 +19,11 @@ on_variant_3 = ['#410001', '#311300', '#231B00', '#102000', '#141F00', '#002020'
 @app.route('/stars/<style>/<variant>/<username>/<repo>')
 def github_stars_badge(style, variant, username, repo):
     url = f'https://api.github.com/repos/{username}/{repo}'
+    style_sheet_url = 'https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@600'
     headers = {'Accept': 'application/vnd.github.v3+json'}
     r = requests.get(url, headers=headers)
-    if r.ok:
+    style_sheet = requests.get(style_sheet_url)
+    if r.ok and style_sheet.ok:
         if int(style) > 12 or int(style) < 0:
             index = 0
         else:
@@ -50,10 +53,10 @@ def github_stars_badge(style, variant, username, repo):
         else:
             width = len(str(stars)) * 15 + 68
         
-        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><style>@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@600");</style><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Lexend Deca">Stars : {stars}</text></svg>'
+        svg = f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="30" fill="{background}" rx="15"><style>@import url("{style_sheet_url}");</style><path d="M40 0h4v20h-4z" fill="#4c1"/><rect rx="15" width="{width}" height="30" fill="{background}"/><text x="11" y="22" fill="{foreground}" font-size="20" font-family="Lexend Deca">Stars : {stars}</text></svg>'
         return Response(svg, mimetype='image/svg+xml')
     else:
         return 'Error during request', r.status_code
 
 # Comment this line out to test the code above
-# app.run()
+app.run()
