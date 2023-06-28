@@ -59,4 +59,4 @@ def github_stars_badge(style, variant, username, repo):
         return 'Error during request', r.status_code
 
 # Comment this line out to test the code above
-app.run()
+# app.run()
