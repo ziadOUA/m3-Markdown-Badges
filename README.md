@@ -650,6 +650,14 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv33.svg` |
 
+## Other
+
+| Badge | URL |
+| ----- | --- |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg` |
+
 ------
 
 # Dynamic badges
@@ -694,6 +702,48 @@
 | <img src="https://m3-markdown-badges.vercel.app/stars/12/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/1/<your-username>/<repo-name>">` |
 | <img src="https://m3-markdown-badges.vercel.app/stars/12/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/2/<your-username>/<repo-name>">` |
 | <img src="https://m3-markdown-badges.vercel.app/stars/12/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/stars/12/3/<your-username>/<repo-name>">` |
+
+
+## Issues
+
+| Badge | URL |
+| ----- | --- |
+| <img src="https://m3-markdown-badges.vercel.app/issues/1/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/1/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/1/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/1/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/1/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/1/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/2/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/2/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/2/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/2/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/2/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/2/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/3/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/3/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/3/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/3/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/3/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/3/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/4/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/4/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/4/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/4/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/4/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/4/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/5/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/5/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/5/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/5/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/5/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/5/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/6/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/6/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/6/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/6/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/6/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/6/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/7/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/7/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/7/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/7/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/7/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/7/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/8/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/8/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/8/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/8/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/8/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/8/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/9/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/9/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/9/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/9/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/9/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/9/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/10/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/10/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/10/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/10/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/10/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/10/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/11/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/11/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/11/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/11/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/11/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/11/3/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/12/1/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/12/1/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/12/2/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/12/2/<your-username>/<repo-name>">` |
+| <img src="https://m3-markdown-badges.vercel.app/issues/12/3/ziadoua/m3-markdown-badges"> | `<img src="https://m3-markdown-badges.vercel.app/issues/12/3/<your-username>/<repo-name>">` |
 
 <br>
 
