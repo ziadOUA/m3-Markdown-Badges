@@ -349,6 +349,9 @@
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Scratch/scratch3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig3.svg` |
 
 ## Library and Framework
 
