@@ -1,10 +1,15 @@
-# *20/08/2023*
+# *21/08/2023* #1
+
+Fixed :
+- **My Portfolio**
+
+# *20/08/2023* #1
 
 Added :
 - **Zig**
   - Fixes [#10](https://github.com/ziadOUA/m3-Markdown-Badges/issues/10)
 
-# *19/07/2023*
+# *19/07/2023* #1
 
 Added :
 - **My Portfolio**
