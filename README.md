@@ -59,6 +59,7 @@
   <summary>Dynamic badges</summary>
 
   - [Stars](#stars)
+  - [Issues](#issues)
 
 </details>
 
