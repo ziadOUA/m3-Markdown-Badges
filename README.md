@@ -63,6 +63,16 @@
 
 </details>
 
+## New Hacktoberfest badges
+
+Tell to your future contributors that you partecipate in Hacktoberfest 2023
+
+| Badge | URL |
+| -------------------------------- | -------------------------------- |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg` |
+
 # How to use
 
 ## Method 1
