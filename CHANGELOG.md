@@ -1,3 +1,9 @@
+# *17/10/2023* #1
+
+Added :
+- **FastAPI**
+  - Fixes [#11](https://github.com/ziadOUA/m3-Markdown-Badges/issues/11)
+
 # *29/09/2023* #1
 
 Added :
