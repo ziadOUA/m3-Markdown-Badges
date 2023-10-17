@@ -497,6 +497,9 @@ Tell to your future contributors that you partecipate in Hacktoberfest 2023
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ionic/ionic3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg` |
 
 ## Linter
 
