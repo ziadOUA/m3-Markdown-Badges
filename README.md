@@ -1,6 +1,6 @@
 # m3 Markdown Badges
 
-<img src="https://i.postimg.cc/x1kt468Z/MARKDOWNBADGES.png">
+<img src="https://i.postimg.cc/GtzzX3ct/MARKDOWNBADGES.png">
 
 <p align="center">
   <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
