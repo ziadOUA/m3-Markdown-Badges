@@ -44,7 +44,7 @@ Table of Contents
   - [Terminal Apps](#terminal-apps)
   - [Streaming and Video](#streaming-and-video)
   - [Web Browsers](#web-browsers)
-  - [Licence Badges](#license-badges)
+  - [Licence Badges](#licence-badges)
 
 </details>
 
@@ -631,7 +631,7 @@ Tell to your future contributors that you partecipate in Hacktoberfest 2023
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg`   |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg">   | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg`   |
 
-## License Badges
+## Licence Badges
 
 | Badge                                                                                                | URL                                                                                        |
 |------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
