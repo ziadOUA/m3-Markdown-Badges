@@ -1,27 +1,20 @@
-# m3 Markdown Badges
-
 <img src="https://i.postimg.cc/GtzzX3ct/MARKDOWNBADGES.png">
 
-<p align="center">
+<h1 align="center">m3 Markdown Badges</h1>
+
+<div align="center">
+  <p>A Material You inspired markdown badge collection</p>
   <img src="https://m3-markdown-badges.vercel.app/stars/9/2/ziadoua/m3-markdown-badges">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
-</p>
-
-<img align="left" height="75px" src="https://pictshare.net/9nezj5.png">
-🏅 A Material You inspired markdown badge collection.
-<br>
-✒ Handmade in Figma.
-<br>
-🎆 Multiple color options.
+</div>
 
 <br>
-<br>
-<br>
 
+Table of Contents
 - [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
   - [Method 1](#method-1)
