@@ -1,0 +1,21 @@
+name: List Directories
+on:
+  push:
+    branches:
+      - main
+jobs:
+  list_directories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: List available badges
+        uses: philips-labs/list-folder-action@v1.0.0
+        with:
+          path: './badges'
+      - name: Save Folders
+        run: |
+          echo "${{ steps.list_folders.outputs.folders }}" > badge-list.json
+      - name: List available badges
+        run: |
+          cat badge-list.json
