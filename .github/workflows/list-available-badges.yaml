@@ -1,8 +1,11 @@
-name: List Directories
+name: List Badges
 on:
   push:
     branches:
       - main
+    paths:
+      - 'badges/**'
+  workflow_dispatch:
 jobs:
   list_directories:
     runs-on: ubuntu-latest
