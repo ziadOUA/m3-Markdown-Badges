@@ -15,7 +15,6 @@
 <br>
 
 Table of Contents
-- [m3 Markdown Badges](#m3-markdown-badges)
 - [How to use](#how-to-use)
   - [Method 1](#method-1)
   - [Method 2](#method-2)
@@ -48,6 +47,8 @@ Table of Contents
 
 </details>
 
+- [Event badges](#event-badges)
+
 <details>
   <summary>Dynamic badges</summary>
 
@@ -55,16 +56,6 @@ Table of Contents
   - [Issues](#issues)
 
 </details>
-
-## New Hacktoberfest badges
-
-Tell to your future contributors that you partecipate in Hacktoberfest 2023
-
-| Badge | URL |
-| -------------------------------- | -------------------------------- |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg` |
 
 # How to use
 
@@ -667,6 +658,18 @@ Tell to your future contributors that you partecipate in Hacktoberfest 2023
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg` |
+
+------
+
+# Event badges
+
+## Hacktoberfest 2023
+
+| Badge | URL |
+| -------------------------------- | -------------------------------- |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20233.svg` |
 
 ------
 
