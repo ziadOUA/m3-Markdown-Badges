@@ -52,7 +52,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[168]**
+# Static Badges **[169]**
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -337,6 +337,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MonkeyType/monkeytype3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg` |
