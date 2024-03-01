@@ -52,7 +52,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[165]**
+# Static Badges **[167]**
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -115,6 +115,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg` |
@@ -304,6 +307,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lichess/lichess3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg` |
