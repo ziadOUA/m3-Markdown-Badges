@@ -115,9 +115,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Cassandra/cassandra3.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com1.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com2.svg` |
-| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chess.com/chess.com3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg` |
