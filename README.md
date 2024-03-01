@@ -52,7 +52,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[167]**
+# Static Badges **[168]**
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -316,6 +316,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos3.svg` |
