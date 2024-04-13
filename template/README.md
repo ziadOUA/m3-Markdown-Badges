@@ -150,5 +150,5 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 </p>
 
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceMIT/licencemit2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg">
 </p>
