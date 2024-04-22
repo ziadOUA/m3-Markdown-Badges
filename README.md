@@ -52,7 +52,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[171]**
+# Static Badges **[172]**
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -154,6 +154,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Docsify/docsify3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet3.svg` |
