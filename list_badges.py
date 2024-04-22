@@ -38,7 +38,8 @@ generated_readme = open('./README.md', 'w')
 
 generated_readme.writelines(generated_readme_data_top)
 
-generated_readme.write(f'# Static Badges **[{len(badge_list)}]**\n')
+generated_readme.write('# Static Badges\n')
+generated_readme.write(f'There are *{len(badge_list)}* badges\n')
 generated_readme.write('| Badge | URL |\n| ------| --- |\n')
 
 for folder_name in badge_list:
