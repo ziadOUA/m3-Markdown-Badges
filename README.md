@@ -52,7 +52,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[169]**
+# Static Badges **[171]**
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -271,6 +271,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg` |
@@ -496,6 +499,9 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailsOS/tailsos3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg` |
