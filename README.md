@@ -52,7 +52,8 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Copy and paste
 - Enjoy :)
 
-# Static Badges **[172]**
+# Static Badges
+There are *172* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
