@@ -53,7 +53,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Enjoy :)
 
 # Static Badges
-There are *178* badges
+There are *179* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -242,6 +242,9 @@ There are *178* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Holopin/holopin3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg` |
