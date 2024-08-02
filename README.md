@@ -53,7 +53,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Enjoy :)
 
 # Static Badges
-There are *181* badges
+There are *193* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -584,6 +584,42 @@ There are *181* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows101.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows102.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20001.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20001.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20002.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20002.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20003.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows2000/windows20003.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot11.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot11.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot12.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot12.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot13.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows3dot1/windows3dot13.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows71.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows71.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows72.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows72.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows73.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows7/windows73.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows81.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows81.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows82.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows82.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows83.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8/windows83.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot11.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot11.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot12.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot12.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot13.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows8dot1/windows8dot13.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows951.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows951.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows952.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows952.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows953.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows95/windows953.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows981.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows981.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows982.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows982.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows983.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows98/windows983.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsMe/windowsme3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsVista/windowsvista3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/WindowsXP/windowsxp3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Xbox/xbox3.svg` |
