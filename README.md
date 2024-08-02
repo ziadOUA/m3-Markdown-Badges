@@ -53,7 +53,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Enjoy :)
 
 # Static Badges
-There are *179* badges
+There are *181* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -287,6 +287,9 @@ There are *179* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ko-fi/ko-fi3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg` |
@@ -503,6 +506,9 @@ There are *179* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg` |
