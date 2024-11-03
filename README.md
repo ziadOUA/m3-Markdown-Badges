@@ -53,7 +53,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Enjoy :)
 
 # Static Badges
-There are *193* badges
+There are *197* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -80,6 +80,9 @@ There are *193* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro3.svg` |
@@ -248,6 +251,9 @@ There are *193* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/i18next/i18next3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg` |
@@ -335,6 +341,9 @@ There are *193* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Lodash/lodash3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Logseq/logseq3.svg` |
@@ -578,6 +587,9 @@ There are *193* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Weblate/weblate3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/webpack/webpack3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg` |
