@@ -53,7 +53,7 @@ The static badge list is alphabetically ordered, so it is recommended to use `CT
 - Enjoy :)
 
 # Static Badges
-There are *197* badges
+There are *198* badges
 | Badge | URL |
 | ------| --- |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Ableton/ableton1.svg` |
@@ -518,6 +518,9 @@ There are *197* badges
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Steam/steam3.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook1.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook2.svg` |
+| <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/Storybook/storybook3.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg` |
 | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg"> | `https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components3.svg` |
